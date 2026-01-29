@@ -1,0 +1,10 @@
+npm init -y
+npm i express
+npm i cors
+npm i dotenv
+npm i jsonwebtoken
+npm i bcrypt
+npm i mongoose
+npm i --save-dev nodemon
+npm i multer
+npm install @imagekit/nodejs
